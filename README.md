@@ -1,19 +1,13 @@
 # Introduction
 
-Ce dépôt contient le code source du site
-[discontinuitepedagogique.org](https://www.discontinuitepedagogique.org)
-dont le but est de contribuer à assurer la (dis)continuité pédagogique pendant l'épidémie de COVID19, en facilitant les échanges.
+Ce dépôt contient le code du site [discontinuitepedagogique.org](https://www.discontinuitepedagogique.org).
 
 # Comment aider ?
 
-Si vous avez des compétences numériques à mettre à disposition des
-enseignants et formateurs de l'éducation nationale, rendez-vous ici.
+Si vous êtes développeurs, rendez-vous dans ce [canal de conversation](https://chat.volontaires.continuitepedagogique.org/channel/tech-room).
 
-Si vous êtes développeurs et voulez nous aider, rendez-vous ici.
+# Licence juridique
 
-# Licence
+Le code source de ce site web est régi par les termes de la [licence MIT](https://github.com/Continuite-Pedagogique/www/blob/master/LICENSE).
 
-2020 © Les contributeurs du dépôt.
-
-Le dépôt est publié sous licence MIT.
 
